@@ -8,6 +8,6 @@ Se você quiser apenas utilizar o aplicativo:
 2.Acesse a pasta windows-installer  
 3.Execute o instalador  
 
-## Se você quiser ler o codigo:
-1.Clone o repositorio
+## Se você quiser ler o codigo:  
+1.Clone o repositorio  
 2.vá para a pasta src/com/sistema/tarefas
