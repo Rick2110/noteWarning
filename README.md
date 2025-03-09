@@ -4,11 +4,11 @@ Um aplicativo de anotações e lembretes com a funcionalidade de marcar a urgên
 ## Como usar
 Se você quiser apenas utilizar o aplicativo:
 -
--Clone o repositorio
--Acesse a pasta windows-installer
--Execute o instalador
+1.Clone o repositorio
+2.Acesse a pasta windows-installer
+3.Execute o instalador
 
 Se você quiser ler o codigo:
 -
--Clone o repositorio
--vá para a pasta src/com/sistema/tarefas
+1.Clone o repositorio
+2.vá para a pasta src/com/sistema/tarefas
