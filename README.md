@@ -12,7 +12,7 @@ Se você quiser apenas utilizar o aplicativo:
 1. Clone o repositorio  
 2. Vá para a pasta src/com/sistema/tarefas
 
-## Futuras atualizações
+## Atualizações planejadas
 - Visual mais intuitivo
 - Enviar notificações para o SO
 - Design mais amigavél
